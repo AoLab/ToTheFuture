@@ -1,4 +1,4 @@
-# History, Current and Future of AIoTRC IoT Platforms
+# History, Current and Future of Aolab
 [![Travis](https://img.shields.io/travis/com/aiotrc/ToTheFuture.svg?style=flat-square)](https://travis-ci.com/aiotrc/ToTheFuture)
 
 ## Introduction

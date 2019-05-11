@@ -1,5 +1,5 @@
 # History, Current and Future of Aolab
-[![Travis](https://img.shields.io/travis/com/aiotrc/ToTheFuture.svg?style=flat-square)](https://travis-ci.com/aiotrc/ToTheFuture)
+[![CircleCI](https://circleci.com/gh/AoLab/ToTheFuture.svg?style=svg)](https://circleci.com/gh/AoLab/ToTheFuture)
 
 ## Introduction
 Every project needs to have a plan. This our plan for Aolab to raise from the ashes with the help of Sepehr Sabour.
